@@ -1,0 +1,16 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "first lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lytsell",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^7.4.0",
+    "moment": "^2.20.1",
+    "sha1": "^1.1.1"
+  }
+}
